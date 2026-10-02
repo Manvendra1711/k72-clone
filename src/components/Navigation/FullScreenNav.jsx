@@ -101,7 +101,7 @@ const FullScreenNav = () => {
                 </div>
                 <div className=' py-36'>
                     <div className='link origin-top relative border-t border-white'>
-                        <h1 className='font-[font2] text-5xl lg:text-[8vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Projets</h1>
+                        <h1 className='font-[font2] text-5xl lg:text-[8vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Work</h1>
                         <div className='moveLink absolute text-black flex top-0 bg-[#D3FD50]'>
                             <div className='moveX flex items-center'>
                                 <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>Pour Tout voir</h2>
@@ -119,7 +119,7 @@ const FullScreenNav = () => {
 
                     </div>
                     <div className='link origin-top relative border-t border-white'>
-                        <h1 className='font-[font2] text-5xl lg:text-[8vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Agence</h1>
+                        <h1 className='font-[font2] text-5xl lg:text-[8vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Agency</h1>
                         <div className='moveLink absolute text-black flex top-0 bg-[#D3FD50]'>
                             <div className='moveX flex items-center'>
                                 <h2 className='whitespace-nowrap font-[font2] lg:text-[8vw] text-5xl  text-center lg:leading-[0.8] lg:pt-10 pt-4 uppercase'>Pour Tout voir</h2>
