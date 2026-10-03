@@ -7,6 +7,7 @@ import FullScreenNav from './components/Navigation/FullScreenNav'
 
 const App = () => {
     return (
+        // overflow-x-hidden - Horizontal direction mein jo content container ke bahar nikal raha hai, usko hide kar do.
         <div className='overflow-x-hidden'>
             <Navbar />
             <FullScreenNav />

@@ -26,11 +26,11 @@ const Navbar = () => {
                 }}
 
 
-                className='bg-black relative h-12.5 w-[16.2vw]'>
+                className='bg-black relative h-12.5 w-[15.6vw]'>
                 <div ref={navGreenRef} className='bg-[#D3FD50] transition-all absolute top-0 h-0 w-full'></div>
-                <div className='bars relative h-full px-8 flex flex-col justify-center items-end gap-1'>
-                    <div className="w-15 h-[1.5px] bg-white"></div>
-                    <div className="w-7 h-[1.5px] bg-white"></div>
+                <div className='cursor-pointer bars relative h-full px-8 flex flex-col justify-center items-end gap-1'>
+                    <div className="w-12 h-[1.5px] bg-white"></div>
+                    <div className="w-6 h-[1.5px] bg-white"></div>
                 </div>
             </div>
         </div>

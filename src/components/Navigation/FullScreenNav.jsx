@@ -99,7 +99,7 @@ const FullScreenNav = () => {
                     </div>
                 </div>
                 <div>
-                    <div className='link origin-top relative border-t border-white'>
+                    <div className='cursor-pointer link origin-top relative border-t border-white'>
                         <h1 className='font-[font2] text-5xl lg:text-[8vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Work</h1>
                         <div className='moveLink absolute text-black flex top-0 bg-[#D3FD50]'>
                             <div className='moveX flex items-center'>
@@ -117,7 +117,7 @@ const FullScreenNav = () => {
                         </div>
 
                     </div>
-                    <div className='link origin-top relative border-t border-white'>
+                    <div className='cursor-pointer link origin-top relative border-t border-white'>
                         <h1 className='font-[font2] text-5xl lg:text-[8vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Agency</h1>
                         <div className='moveLink absolute text-black flex top-0 bg-[#D3FD50]'>
                             <div className='moveX flex items-center'>
@@ -135,7 +135,7 @@ const FullScreenNav = () => {
                         </div>
 
                     </div>
-                    <div className='link origin-top relative border-t border-white'>
+                    <div className='cursor-pointer link origin-top relative border-t border-white'>
                         <h1 className='font-[font2] text-5xl lg:text-[8vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Contact</h1>
                         <div className='moveLink absolute text-black flex top-0 bg-[#D3FD50]'>
                             <div className='moveX flex items-center'>
@@ -153,7 +153,7 @@ const FullScreenNav = () => {
                         </div>
 
                     </div>
-                    <div className='link origin-top relative border-y border-white'>
+                    <div className='cursor-pointer link origin-top relative border-y border-white'>
                         <h1 className='font-[font2] text-5xl lg:text-[8vw] text-center lg:leading-[0.8] lg:pt-10 pt-3 uppercase'>Blogs</h1>
                         <div className='moveLink absolute text-black flex top-0 bg-[#D3FD50]'>
                             <div className='moveX flex items-center'>
